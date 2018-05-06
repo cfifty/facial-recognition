@@ -7,8 +7,8 @@ import sqlite3
 
 db_file = 'labed_encodings.db'
 
-train_data_dir = '/Users/ericmdai/Downloads/images-train'
-val_data_dir = '/Users/ericmdai/Downloads/images-val-pub'
+train_data_dir = '../images-train'
+val_data_dir = '../images-val-pub'
 
 output_file = 'submission.csv'
 
