@@ -7,8 +7,8 @@ import sqlite3
 
 db_file = 'labed_encodings.db'
 
-train_data_dir = './images-train'
-val_data_dir = './images-val-pub'
+train_data_dir = '/Users/ericmdai/Downloads/images-train'
+val_data_dir = '/Users/ericmdai/Downloads/images-val-pub'
 
 output_file = 'submission.csv'
 
@@ -55,18 +55,21 @@ def predict_all(writer=None):
     files = sorted(os.listdir(val_data_dir))
     for f in files:
         pred = predict('{}/{}'.format(val_data_dir, f))
-        print "Precition for %s: %s" % (f, pred)
+        print 'Precition for %s: %s' % (f, pred)
         if writer is not None:
             writer.writerow([f, pred])
 
 
-def predict(img_file, num_jitters=1):
+def predict(img_file, num_jitters=100):
     img = fr.api.load_image_file(img_file)
     try:
-        unknown_encoding = fr.api.face_encodings(img, num_jitters)[0]
+        unknown_encoding = fr.api.face_encodings(img)
+        if len(unknown_encoding) == 0:
+            unknown_encoding = fr.api.face_encodings(img, num_jitters)
+        unknown_encoding = unknown_encoding[0]
     except Exception as e:
-        print "Failed to get face encoding: %s" % str(e)
-        return
+        print 'Failed to get face encoding: %s' % str(e)
+        return 'Unknown'
 
     pred_label = ''
     pred_dist = np.inf
