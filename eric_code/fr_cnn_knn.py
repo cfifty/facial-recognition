@@ -1,7 +1,5 @@
 #!/usr/bin/env python2
-import csv
 import face_recognition as fr
-import numpy as np
 import os
 import pickle
 

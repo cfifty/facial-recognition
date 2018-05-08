@@ -1,3 +1,4 @@
+import csv
 import os
 
 TRAIN_DATA_DIR = '/Users/ericmdai/Downloads/images-train/'

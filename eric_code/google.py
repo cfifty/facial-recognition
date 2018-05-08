@@ -1,7 +1,5 @@
 #!/usr/bin/env python2
-import csv
 import io
-import os
 
 from constants import CLASS_LABELS, VAL_IMG_LABELS, VAL_IMG_PATHS, output
 from google.cloud import vision
