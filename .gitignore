@@ -27,4 +27,4 @@ Temporary Items
 .apdisk
 
 # Python stuff
-.pyc
+*.pyc
