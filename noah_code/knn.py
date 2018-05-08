@@ -10,7 +10,7 @@ from shogun import KNN, EuclideanDistance
 from shogun import LMNN
 
 N_NEIGHBORS = 3
-MAX_LMNN_ITERS = 2000
+MAX_LMNN_ITERS = 10
 
 db_file = '../eric_code/labed_encodings.db'
 val_data_dir = '../images-val-pub'
@@ -106,18 +106,22 @@ def knn(strLabels, featuresArr, unknownFeatureNames, unknownFeaturesArr, useLMNN
 		lmnn = LMNN(features, labels, N_NEIGHBORS)
 
 		# set an initial transform as a start point of the optimization (if not set, principal component analysis is used to obtain this value)
-		# init_transform = numpy.eye(2)
+		init_transform = np.eye(2)
 		# lmnn.train(init_transform)
-
-		lmnn.train()
 
 		# maximum number of iterations
 		lmnn.set_maxiter(MAX_LMNN_ITERS)
-		
+
+		print("LMNN train start")
+		lmnn.train()
+		print("LMNN train end")
+
 		# lmnn is used as a distance measure for knn
 		knn.set_distance(lmnn.get_distance())
 
+	print("KNN train start")
 	knn.train()
+	print("KNN train end")
 	predictLabelInts = knn.apply_multiclass(unknownFeatures).get_int_labels()
 	for i in range(len(predictLabelInts)):
 		predictLabel = labelsIntToStr[predictLabelInts[i]]

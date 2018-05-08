@@ -15,7 +15,7 @@ def compareCSVs(file1, file2):
 		return differences
 
 def main():
-	print(compareCSVs('submission.csv', 'submission1.csv')) #../eric_code/submission.csv
+	print(compareCSVs('submission.csv', 'submissionknn.csv')) #../eric_code/submission.csv
 
 if __name__ == '__main__':
 	main()
