@@ -123,7 +123,7 @@ def main():
     print 'Training complete!'
 
     # preds = predict_all()
-    # output(preds)
+    # output(output_file, preds)
 
 
 if __name__ == '__main__':

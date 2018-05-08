@@ -45,7 +45,7 @@ def detect_web_entities(path):
 
 def main():
     preds = predict_all()
-    output(preds)
+    output(output_file, preds)
 
 
 if __name__ == '__main__':

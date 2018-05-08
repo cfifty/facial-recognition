@@ -9,7 +9,7 @@ VAL_IMG_LABELS = sorted(os.listdir(VAL_DATA_DIR))
 VAL_IMG_PATHS = map(lambda f: VAL_DATA_DIR + f, VAL_IMG_LABELS)
 
 
-def output(preds, header=False):
+def output(output_file, preds, header=False):
     with open(output_file, 'wb') as f:
         writer = csv.writer(f, delimiter=',')
         if header:
