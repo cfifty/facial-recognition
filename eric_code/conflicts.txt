@@ -1,0 +1,644 @@
+/Users/ericmdai/Downloads/images-val-pub/00d458a9c2c035a9c2ebbfdddba76a46.jpg
+gerald_ford (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/01d158cdcb40685a3eb32821f7056d1e.jpg
+taylor_swift (fr) vs britney_spears (google) vs taylor_swift (facenet)
+Majority label: taylor_swift
+
+/Users/ericmdai/Downloads/images-val-pub/01f164a07164f225136d0e2efeeadec4.jpg
+angelina_jolie (fr) vs angelina_jolie (google) vs scarlett_johansson (facenet)
+Majority label: angelina_jolie
+
+/Users/ericmdai/Downloads/images-val-pub/075458cf994f16d77825e80401e73d89.jpg
+lady_gaga (fr) vs lady_gaga (google) vs mikhail_gorbachev (facenet)
+Majority label: lady_gaga
+
+/Users/ericmdai/Downloads/images-val-pub/0a20405941b11b48fb23abfe73154d65.jpg
+bruce_springsteen (fr) vs bruce_springsteen (google) vs eric_clapton (facenet)
+Majority label: bruce_springsteen
+
+/Users/ericmdai/Downloads/images-val-pub/0b2d120953e0fdced08cf1fe12f99b7b.jpg
+david_beckham (fr) vs google_unknown (google) vs marvin_gaye (facenet)
+Majority label: david_beckham
+
+/Users/ericmdai/Downloads/images-val-pub/0ba8464a6d01b93f0bf20731eb79981e.jpg
+david_beckham (fr) vs cristiano_ronaldo (google) vs cristiano_ronaldo (facenet)
+Majority label: cristiano_ronaldo
+
+/Users/ericmdai/Downloads/images-val-pub/0c1be26c9bc7fb577a7e5c0be0440ad9.jpg
+demi_moore (fr) vs scarlett_johansson (google) vs demi_moore (facenet)
+Majority label: demi_moore
+
+/Users/ericmdai/Downloads/images-val-pub/0c485a6b93420e0338cdf976be87d3ea.jpg
+eric_clapton (fr) vs eric_clapton (google) vs marvin_gaye (facenet)
+Majority label: eric_clapton
+
+/Users/ericmdai/Downloads/images-val-pub/0ce4fe1792c1732e3d5eee8a1889fc34.jpg
+marie_curie (fr) vs google_unknown (google) vs johnny_cash (facenet)
+Majority label: marie_curie
+
+/Users/ericmdai/Downloads/images-val-pub/0db6de8a43961f6926213feec5c4a720.jpg
+arnold_schwarzenegger (fr) vs google_unknown (google) vs adam_levine (facenet)
+Majority label: arnold_schwarzenegger
+
+/Users/ericmdai/Downloads/images-val-pub/0ea2e632205964fd0013e4710038f9fd.jpg
+barack_obama (fr) vs google_unknown (google) vs kanye_west (facenet)
+Majority label: kanye_west
+
+/Users/ericmdai/Downloads/images-val-pub/1459dbd590879fb8b5a2b20dff85ac25.jpg
+lady_gaga (fr) vs lady_gaga (google) vs gwyneth_paltrow (facenet)
+Majority label: lady_gaga
+
+/Users/ericmdai/Downloads/images-val-pub/15c66602d3a655f4e3309ffa0beca2c9.jpg
+orlando_bloom (fr) vs orlando_bloom (google) vs hank_williams (facenet)
+Majority label: orlando_bloom
+
+/Users/ericmdai/Downloads/images-val-pub/17f2cfa39941dc4fbd4d2fc90f2b3965.jpg
+saoirse_ronan (fr) vs saoirse_ronan (google) vs jennifer_aniston (facenet)
+Majority label: saoirse_ronan
+
+/Users/ericmdai/Downloads/images-val-pub/186b1a2e616f7cb2fa5783137345154d.jpg
+cristiano_ronaldo (fr) vs google_unknown (google) vs kanye_west (facenet)
+Majority label: cristiano_ronaldo
+
+/Users/ericmdai/Downloads/images-val-pub/1b3a64816ed4250b176e395f0aa8b69f.jpg
+orlando_bloom (fr) vs google_unknown (google) vs ben_affleck (facenet)
+Majority label: orlando_bloom
+
+/Users/ericmdai/Downloads/images-val-pub/1cd49b7422555c3fcfeabc787c1d97e7.jpg
+bruce_willis (fr) vs bruce_willis (google) vs ben_affleck (facenet)
+Majority label: bruce_willis
+
+/Users/ericmdai/Downloads/images-val-pub/1efe6c5d0cdf8152df5273f08e4fb2f6.jpg
+lady_gaga (fr) vs lady_gaga (google) vs mariah_carey (facenet)
+Majority label: lady_gaga
+
+/Users/ericmdai/Downloads/images-val-pub/20e36fc56e370cd18946e1cc267d3474.jpg
+bruce_springsteen (fr) vs bruce_springsteen (google) vs ben_affleck (facenet)
+Majority label: bruce_springsteen
+
+/Users/ericmdai/Downloads/images-val-pub/210cd8c86243fc508809686a17b85a84.jpg
+elvis_presley (fr) vs google_unknown (google) vs george_bush (facenet)
+Majority label: elvis_presley
+
+/Users/ericmdai/Downloads/images-val-pub/2111887ed5d25544dfc561c3d1335195.jpg
+john_mccain (fr) vs google_unknown (google) vs amy_schumer (facenet)
+Majority label: amy_schumer
+
+/Users/ericmdai/Downloads/images-val-pub/21121e75ff5b8beec71f07db0a3318b4.jpg
+garth_brooks (fr) vs google_unknown (google) vs hank_williams (facenet)
+Majority label: garth_brooks
+
+/Users/ericmdai/Downloads/images-val-pub/2558f4222392dc0399876f9ba68a6eed.jpg
+al_gore (fr) vs al_gore (google) vs ronald_reagan (facenet)
+Majority label: al_gore
+
+/Users/ericmdai/Downloads/images-val-pub/25f243af5c51d9c8c7d4cce25d8e8144.jpg
+george_bush (fr) vs cary_grant (google) vs john_mccain (facenet)
+Majority label: john_mccain
+
+/Users/ericmdai/Downloads/images-val-pub/288e59e4c514d7abbb42c2528f24fc7c.jpg
+audrey_hepburn (fr) vs audrey_hepburn (google) vs joan_crawford (facenet)
+Majority label: audrey_hepburn
+
+/Users/ericmdai/Downloads/images-val-pub/2b5f8f745df4c4d150cc5aa9db29408c.jpg
+arnold_schwarzenegger (fr) vs google_unknown (google) vs eric_clapton (facenet)
+Majority label: arnold_schwarzenegger
+
+/Users/ericmdai/Downloads/images-val-pub/2fabd00c5b961fc5c059d56d4b81d360.jpg
+noam_chomsky (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/30d20c1ec1de932ea0d1beb4d167b053.jpg
+cary_grant (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: cary_grant
+
+/Users/ericmdai/Downloads/images-val-pub/320bfe3f8b17b7c17c21b32493cd8487.jpg
+adam_levine (fr) vs google_unknown (google) vs ben_affleck (facenet)
+Majority label: ben_affleck
+
+/Users/ericmdai/Downloads/images-val-pub/322b75309ce8181ccd5d200748aeff46.jpg
+mila_kunis (fr) vs mila_kunis (google) vs lady_gaga (facenet)
+Majority label: mila_kunis
+
+/Users/ericmdai/Downloads/images-val-pub/3554b87d347792820c37aef4eb2fbfce.jpg
+natalie_portman (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/364f25353ad13a8d43ec09aeb970f786.jpg
+j.k._simmons (fr) vs bruce_springsteen (google) vs bruce_springsteen (facenet)
+Majority label: bruce_springsteen
+
+/Users/ericmdai/Downloads/images-val-pub/37b4bb73ba426430394110d5520e1d40.jpg
+gwyneth_paltrow (fr) vs reese_witherspoon (google) vs reese_witherspoon (facenet)
+Majority label: reese_witherspoon
+
+/Users/ericmdai/Downloads/images-val-pub/394948529136b9bdb4717362c7f9dc82.jpg
+halle_berry (fr) vs halle_berry (google) vs jennifer_aniston (facenet)
+Majority label: halle_berry
+
+/Users/ericmdai/Downloads/images-val-pub/3a0ca5dc84366ab46138d7d78cd4f08f.jpg
+thomas_edison (fr) vs nikola_tesla (google) vs thomas_edison (facenet)
+Majority label: thomas_edison
+
+/Users/ericmdai/Downloads/images-val-pub/3b67c638e0ea22fe0fd02ff9b61cc41a.jpg
+elvis_presley (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: elvis_presley
+
+/Users/ericmdai/Downloads/images-val-pub/3b73bc22751eee85f99345073ab98a82.jpg
+vladimir_putin (fr) vs barack_obama (google) vs vladimir_putin (facenet)
+Majority label: vladimir_putin
+
+/Users/ericmdai/Downloads/images-val-pub/3bc9013a39bc454ba25a7e659613c474.jpg
+joan_crawford (fr) vs humphrey_bogart (google) vs audrey_hepburn (facenet)
+Majority label: audrey_hepburn
+
+/Users/ericmdai/Downloads/images-val-pub/3c6a1d0ff360cd0cf85af8901c338180.jpg
+noam_chomsky (fr) vs john_mccain (google) vs charlie_chaplin (facenet)
+Majority label: noam_chomsky
+
+/Users/ericmdai/Downloads/images-val-pub/3eea967cd5193dc37d37af1ab1d6e21e.jpg
+carly_fiorina (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: carly_fiorina
+
+/Users/ericmdai/Downloads/images-val-pub/40ab440da89c8197b660c0864a2ee71f.jpg
+sheryl_sandberg (fr) vs google_unknown (google) vs eric_clapton (facenet)
+Majority label: sheryl_sandberg
+
+/Users/ericmdai/Downloads/images-val-pub/42b4e99100727e7cf87fb8ad9fb2405e.jpg
+mitt_romney (fr) vs barack_obama (google) vs mitt_romney (facenet)
+Majority label: mitt_romney
+
+/Users/ericmdai/Downloads/images-val-pub/47abaaafb2b0a265517f7900cead6e03.jpg
+vladimir_putin (fr) vs donald_trump (google) vs vladimir_putin (facenet)
+Majority label: vladimir_putin
+
+/Users/ericmdai/Downloads/images-val-pub/47d2da57b14db6c5bfef486ee8afddc5.jpg
+humphrey_bogart (fr) vs humphrey_bogart (google) vs hank_williams (facenet)
+Majority label: humphrey_bogart
+
+/Users/ericmdai/Downloads/images-val-pub/48f63cacd53c05832ff392aac31b251c.jpg
+elvis_presley (fr) vs google_unknown (google) vs kanye_west (facenet)
+Majority label: elvis_presley
+
+/Users/ericmdai/Downloads/images-val-pub/4c19c5a6caa065a6d411e686df6886a9.jpg
+demi_moore (fr) vs google_unknown (google) vs george_bush (facenet)
+Majority label: demi_moore
+
+/Users/ericmdai/Downloads/images-val-pub/4c227db559bf26d9c8ffadb2bfa70036.jpg
+cristiano_ronaldo (fr) vs google_unknown (google) vs donald_trump (facenet)
+Majority label: cristiano_ronaldo
+
+/Users/ericmdai/Downloads/images-val-pub/4f12f90fe7d2b5a98814aa47f29ea83a.jpg
+franklin_roosevelt (fr) vs google_unknown (google) vs vladimir_putin (facenet)
+Majority label: franklin_roosevelt
+
+/Users/ericmdai/Downloads/images-val-pub/4f84d1e47028fc665849616bc0ace150.jpg
+bill_clinton (fr) vs barack_obama (google) vs bill_clinton (facenet)
+Majority label: bill_clinton
+
+/Users/ericmdai/Downloads/images-val-pub/50aa5cd7c4611e3c3b3e0a0886a4daa1.jpg
+elvis_presley (fr) vs google_unknown (google) vs kanye_west (facenet)
+Majority label: elvis_presley
+
+/Users/ericmdai/Downloads/images-val-pub/542f68383bc2710a1454448b9fbd1947.jpg
+gwyneth_paltrow (fr) vs google_unknown (google) vs nicole_kidman (facenet)
+Majority label: gwyneth_paltrow
+
+/Users/ericmdai/Downloads/images-val-pub/548ea98a06917aa0c96a5d8dd5ce9128.jpg
+hillary_clinton (fr) vs hillary_clinton (google) vs jennifer_aniston (facenet)
+Majority label: hillary_clinton
+
+/Users/ericmdai/Downloads/images-val-pub/55e65af403f598a4629d699870d97b91.jpg
+george_bush (fr) vs donald_trump (google) vs george_bush (facenet)
+Majority label: george_bush
+
+/Users/ericmdai/Downloads/images-val-pub/5bb4ec398cf4ee1fdf4cbdabe771b19f.jpg
+david_beckham (fr) vs bruce_willis (google) vs ben_affleck (facenet)
+Majority label: bruce_willis
+
+/Users/ericmdai/Downloads/images-val-pub/5d1e4169569233cffb820a1fcc4ed573.jpg
+marie_curie (fr) vs mikhail_gorbachev (google) vs donald_trump (facenet)
+Majority label: marie_curie
+
+/Users/ericmdai/Downloads/images-val-pub/5e6567dcb787245794ccd86a577c5268.jpg
+george_bush (fr) vs donald_trump (google) vs george_bush (facenet)
+Majority label: george_bush
+
+/Users/ericmdai/Downloads/images-val-pub/5f8a3c64c6ed66c48702a560869782ed.jpg
+nikola_tesla (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: nikola_tesla
+
+/Users/ericmdai/Downloads/images-val-pub/60cd237337cc4bc12c47fa23ad27120e.jpg
+humphrey_bogart (fr) vs humphrey_bogart (google) vs johnny_cash (facenet)
+Majority label: humphrey_bogart
+
+/Users/ericmdai/Downloads/images-val-pub/63f00d4ddd7326b2e2c74efb26b8b948.jpg
+cary_grant (fr) vs charlie_chaplin (google) vs charlie_chaplin (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/644aa9a37babb025a07896753688e17c.jpg
+eric_clapton (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/66c3b8528a755a6db15a29934d903e1a.jpg
+jessica_alba (fr) vs jennifer_aniston (google) vs jessica_alba (facenet)
+Majority label: jessica_alba
+
+/Users/ericmdai/Downloads/images-val-pub/66caf6d582c93eee1f4259092fb77c52.jpg
+arnold_schwarzenegger (fr) vs david_beckham (google) vs arnold_schwarzenegger (facenet)
+Majority label: arnold_schwarzenegger
+
+/Users/ericmdai/Downloads/images-val-pub/696352fd86f9aefc63521a956a5dafb7.jpg
+johnny_depp (fr) vs google_unknown (google) vs garth_brooks (facenet)
+Majority label: garth_brooks
+
+/Users/ericmdai/Downloads/images-val-pub/6d1065f9be694faeb92be5f1f7b85787.jpg
+lady_gaga (fr) vs google_unknown (google) vs carly_fiorina (facenet)
+Majority label: carly_fiorina
+
+/Users/ericmdai/Downloads/images-val-pub/6d531632fa2fecc095719985c36ee62f.jpg
+george_bush (fr) vs bill_clinton (google) vs george_bush (facenet)
+Majority label: george_bush
+
+/Users/ericmdai/Downloads/images-val-pub/6d860f49aa3acd2b6b69ab977ca99b95.jpg
+demi_moore (fr) vs demi_moore (google) vs lady_gaga (facenet)
+Majority label: demi_moore
+
+/Users/ericmdai/Downloads/images-val-pub/6dcca970db726b67f8aff893bacd0584.jpg
+bruce_willis (fr) vs bruce_willis (google) vs humphrey_bogart (facenet)
+Majority label: bruce_willis
+
+/Users/ericmdai/Downloads/images-val-pub/6de7fcbbb6cf51c089bbe0fbae545b01.jpg
+mitt_romney (fr) vs donald_trump (google) vs mitt_romney (facenet)
+Majority label: mitt_romney
+
+/Users/ericmdai/Downloads/images-val-pub/7097c41e723aed0d8968f24edb287b80.jpg
+mila_kunis (fr) vs natalie_portman (google) vs mila_kunis (facenet)
+Majority label: mila_kunis
+
+/Users/ericmdai/Downloads/images-val-pub/71e6dd5233895951f113866fde0d6be6.jpg
+bob_dylan (fr) vs eric_clapton (google) vs paul_mccartney (facenet)
+Majority label: bob_dylan
+
+/Users/ericmdai/Downloads/images-val-pub/7217369729f01d8bf80a62244683b39c.jpg
+franklin_roosevelt (fr) vs google_unknown (google) vs theodore_roosevelt (facenet)
+Majority label: theodore_roosevelt
+
+/Users/ericmdai/Downloads/images-val-pub/72cdbfc7440edb4188aa153fffb7fcd2.jpg
+j.k._simmons (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/72dc67690647c385c1bd96fca41f7013.jpg
+johnny_depp (fr) vs johnny_depp (google) vs eric_clapton (facenet)
+Majority label: johnny_depp
+
+/Users/ericmdai/Downloads/images-val-pub/7449a9f88dff296cf2cd4f8a78c2bca8.jpg
+aretha_franklin (fr) vs google_unknown (google) vs kanye_west (facenet)
+Majority label: kanye_west
+
+/Users/ericmdai/Downloads/images-val-pub/780179ae94038de7dd6829f4eadc2d25.jpg
+charlie_chaplin (fr) vs google_unknown (google) vs hank_williams (facenet)
+Majority label: hank_williams
+
+/Users/ericmdai/Downloads/images-val-pub/78802e080f62e7c989458042250e7ce9.jpg
+eric_clapton (fr) vs google_unknown (google) vs bruce_springsteen (facenet)
+Majority label: eric_clapton
+
+/Users/ericmdai/Downloads/images-val-pub/7cf1b09cd936998789214f23d50969c6.jpg
+billy_joel (fr) vs billy_joel (google) vs mikhail_gorbachev (facenet)
+Majority label: billy_joel
+
+/Users/ericmdai/Downloads/images-val-pub/7f49a42fadd3b437d0b4adf5a9056160.jpg
+george_bush (fr) vs john_cena (google) vs john_cena (facenet)
+Majority label: john_cena
+
+/Users/ericmdai/Downloads/images-val-pub/7f84de90890bfce3ef2f2440f2a35490.jpg
+john_cena (fr) vs google_unknown (google) vs george_bush (facenet)
+Majority label: john_cena
+
+/Users/ericmdai/Downloads/images-val-pub/7f93756e5bfab729175855c9ddcfd9a7.jpg
+beyonce (fr) vs google_unknown (google) vs kim_kardashian (facenet)
+Majority label: kim_kardashian
+
+/Users/ericmdai/Downloads/images-val-pub/811929fa342258c10e51eb85d25c740c.jpg
+fr_unknown (fr) vs adam_levine (google) vs hank_williams (facenet)
+Majority label: hank_williams
+
+/Users/ericmdai/Downloads/images-val-pub/81dc06fab2512f479bbabd6858f18349.jpg
+gerald_ford (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/827d41cd76b1186e862354968242101c.jpg
+billy_joel (fr) vs billy_joel (google) vs donald_trump (facenet)
+Majority label: billy_joel
+
+/Users/ericmdai/Downloads/images-val-pub/87b0f95f90833bcb0c769251689ff181.jpg
+drew_barrymore (fr) vs google_unknown (google) vs britney_spears (facenet)
+Majority label: britney_spears
+
+/Users/ericmdai/Downloads/images-val-pub/8cb4e74ad9982e64639a2d3c5b914ec2.jpg
+billy_joel (fr) vs marie_curie (google) vs marie_curie (facenet)
+Majority label: marie_curie
+
+/Users/ericmdai/Downloads/images-val-pub/8fe906d802e5c94df5afa685498e4a45.jpg
+paul_mccartney (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/9037fd55fc57c38e98650227eabc4c56.jpg
+donald_trump (fr) vs donald_trump (google) vs mikhail_gorbachev (facenet)
+Majority label: donald_trump
+
+/Users/ericmdai/Downloads/images-val-pub/915c77724d57e3c34804e3153a7e6e9d.jpg
+cameron_diaz (fr) vs nicole_kidman (google) vs cameron_diaz (facenet)
+Majority label: cameron_diaz
+
+/Users/ericmdai/Downloads/images-val-pub/93f1faae908669c7039b53fabc965c9b.jpg
+bruce_willis (fr) vs google_unknown (google) vs hank_williams (facenet)
+Majority label: bruce_willis
+
+/Users/ericmdai/Downloads/images-val-pub/94f596a4aedb29b28245ddd70fd965b2.jpg
+charlie_chaplin (fr) vs charlie_chaplin (google) vs humphrey_bogart (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/9664a166d421e4e2bcc1564349f018dc.jpg
+tom_hanks (fr) vs tom_hanks (google) vs theodore_roosevelt (facenet)
+Majority label: tom_hanks
+
+/Users/ericmdai/Downloads/images-val-pub/981d4feb4d0af2b1daa94ce77ac2a7ed.jpg
+eric_clapton (fr) vs google_unknown (google) vs garth_brooks (facenet)
+Majority label: garth_brooks
+
+/Users/ericmdai/Downloads/images-val-pub/997a3f096d5362c0dfb673cd2ba084f5.jpg
+carly_fiorina (fr) vs google_unknown (google) vs johnny_cash (facenet)
+Majority label: carly_fiorina
+
+/Users/ericmdai/Downloads/images-val-pub/99f73b55a31069cd9380f3988030088e.jpg
+mitt_romney (fr) vs google_unknown (google) vs hank_williams (facenet)
+Majority label: mitt_romney
+
+/Users/ericmdai/Downloads/images-val-pub/9a24dd849c6993e57d9f34a859e70f60.jpg
+aretha_franklin (fr) vs aretha_franklin (google) vs jennifer_aniston (facenet)
+Majority label: aretha_franklin
+
+/Users/ericmdai/Downloads/images-val-pub/9ac8c1116876661b94ebbe56555a3061.jpg
+nikola_tesla (fr) vs google_unknown (google) vs cristiano_ronaldo (facenet)
+Majority label: cristiano_ronaldo
+
+/Users/ericmdai/Downloads/images-val-pub/9c531a713c6b62fa2ee681ae82811c09.jpg
+louis_armstrong (fr) vs google_unknown (google) vs marvin_gaye (facenet)
+Majority label: marvin_gaye
+
+/Users/ericmdai/Downloads/images-val-pub/9ccde7fc9e0a39b263cbc48eb6f07c90.jpg
+carly_fiorina (fr) vs google_unknown (google) vs jennifer_aniston (facenet)
+Majority label: carly_fiorina
+
+/Users/ericmdai/Downloads/images-val-pub/9cee171d62314ccac07e9344acbbf9b2.jpg
+franklin_roosevelt (fr) vs theodore_roosevelt (google) vs franklin_roosevelt (facenet)
+Majority label: franklin_roosevelt
+
+/Users/ericmdai/Downloads/images-val-pub/9e44ef8a8104bc1ffdee72d44fb55872.jpg
+joan_crawford (fr) vs joan_crawford (google) vs judy_garland (facenet)
+Majority label: joan_crawford
+
+/Users/ericmdai/Downloads/images-val-pub/9e8629f324c43a8d6fdc4ac476df4d66.jpg
+theodore_roosevelt (fr) vs theodore_roosevelt (google) vs mikhail_gorbachev (facenet)
+Majority label: theodore_roosevelt
+
+/Users/ericmdai/Downloads/images-val-pub/9ee0b5f20b7f376507f409b520a1030d.jpg
+carly_fiorina (fr) vs demi_moore (google) vs demi_moore (facenet)
+Majority label: demi_moore
+
+/Users/ericmdai/Downloads/images-val-pub/a0c0934989ecc79bc0a07ee6595776fe.jpg
+marie_curie (fr) vs donald_trump (google) vs kanye_west (facenet)
+Majority label: marie_curie
+
+/Users/ericmdai/Downloads/images-val-pub/a162a6be16e17a9a68a45986faf6a375.jpg
+mila_kunis (fr) vs jennifer_aniston (google) vs mila_kunis (facenet)
+Majority label: mila_kunis
+
+/Users/ericmdai/Downloads/images-val-pub/a1d3f9dee882b8ccf3149f4eef0ea539.jpg
+albert_einstein (fr) vs sheryl_sandberg (google) vs johnny_cash (facenet)
+Majority label: sheryl_sandberg
+
+/Users/ericmdai/Downloads/images-val-pub/a21f5ecb17a108311998b5b1ae1f7b6f.jpg
+albert_einstein (fr) vs billy_joel (google) vs louis_armstrong (facenet)
+Majority label: billy_joel
+
+/Users/ericmdai/Downloads/images-val-pub/a2a0956869dc679bd2ce79f4e1d07b2f.jpg
+charlie_chaplin (fr) vs johnny_depp (google) vs facenet_unknown (facenet)
+Majority label: johnny_depp
+
+/Users/ericmdai/Downloads/images-val-pub/a3b0a493e4a60792c6ef5326340b934e.jpg
+judy_garland (fr) vs oprah_winfrey (google) vs judy_garland (facenet)
+Majority label: judy_garland
+
+/Users/ericmdai/Downloads/images-val-pub/a547e72aaeb42477fb2018676b1a9727.jpg
+hank_williams (fr) vs google_unknown (google) vs bruce_springsteen (facenet)
+Majority label: hank_williams
+
+/Users/ericmdai/Downloads/images-val-pub/a6f47b4b64b6d96f27bfcfc19a547d1b.jpg
+vladimir_putin (fr) vs eric_clapton (google) vs eric_clapton (facenet)
+Majority label: eric_clapton
+
+/Users/ericmdai/Downloads/images-val-pub/a902176947090af26f4112c04155f452.jpg
+orlando_bloom (fr) vs bruce_springsteen (google) vs orlando_bloom (facenet)
+Majority label: orlando_bloom
+
+/Users/ericmdai/Downloads/images-val-pub/af5f3a1cd9f76c500522b14a1c99234a.jpg
+david_beckham (fr) vs david_beckham (google) vs hank_williams (facenet)
+Majority label: david_beckham
+
+/Users/ericmdai/Downloads/images-val-pub/b09cc23c40bedc288c2751b29f8dbb2f.jpg
+al_gore (fr) vs al_gore (google) vs theodore_roosevelt (facenet)
+Majority label: al_gore
+
+/Users/ericmdai/Downloads/images-val-pub/b1755297a516f7805365799c3df2f325.jpg
+bob_dylan (fr) vs bob_dylan (google) vs johnny_cash (facenet)
+Majority label: bob_dylan
+
+/Users/ericmdai/Downloads/images-val-pub/b4412ddb311db517d532f3b2ab2ea1c5.jpg
+george_bush (fr) vs donald_trump (google) vs george_bush (facenet)
+Majority label: george_bush
+
+/Users/ericmdai/Downloads/images-val-pub/b8bfc9d76ec6242928ad30beae1de937.jpg
+garth_brooks (fr) vs google_unknown (google) vs john_mccain (facenet)
+Majority label: garth_brooks
+
+/Users/ericmdai/Downloads/images-val-pub/b91b9049a80d0a314f7c9d7067ad277e.jpg
+garth_brooks (fr) vs google_unknown (google) vs donald_trump (facenet)
+Majority label: garth_brooks
+
+/Users/ericmdai/Downloads/images-val-pub/b9415e3b5b8168feb7f2a8e7de669594.jpg
+judy_garland (fr) vs drew_barrymore (google) vs drew_barrymore (facenet)
+Majority label: drew_barrymore
+
+/Users/ericmdai/Downloads/images-val-pub/bb898094cf557a8d24b4d84cbbfa2798.jpg
+adam_levine (fr) vs elton_john (google) vs elton_john (facenet)
+Majority label: elton_john
+
+/Users/ericmdai/Downloads/images-val-pub/bc2fd4f31f7a6413c813760bccfecdc6.jpg
+charlie_chaplin (fr) vs charlie_chaplin (google) vs bruce_springsteen (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/bf2fab71d4a7cfe91e85b96124227452.jpg
+john_cena (fr) vs david_beckham (google) vs david_beckham (facenet)
+Majority label: david_beckham
+
+/Users/ericmdai/Downloads/images-val-pub/c0058e30bf3882e7d05b8e221cd81fcd.jpg
+gerald_ford (fr) vs google_unknown (google) vs mikhail_gorbachev (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/c2ab04e54744c0cdb3b4ab4c682d0f4e.jpg
+britney_spears (fr) vs paul_mccartney (google) vs britney_spears (facenet)
+Majority label: britney_spears
+
+/Users/ericmdai/Downloads/images-val-pub/c2d1cc523c26310e7e75c06e05c41d6b.jpg
+steven_spielberg (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/c2d60740603a2e9c359f7e0310817057.jpg
+bob_dylan (fr) vs google_unknown (google) vs eric_clapton (facenet)
+Majority label: bob_dylan
+
+/Users/ericmdai/Downloads/images-val-pub/c3d89497ba5973e592cf66e8816d066b.jpg
+donald_trump (fr) vs google_unknown (google) vs eric_clapton (facenet)
+Majority label: donald_trump
+
+/Users/ericmdai/Downloads/images-val-pub/c57589227beba66f6fbf039eaaa12584.jpg
+marvin_gaye (fr) vs google_unknown (google) vs bruce_springsteen (facenet)
+Majority label: marvin_gaye
+
+/Users/ericmdai/Downloads/images-val-pub/c5d0e6eaca554dfedf3a7dd60592deaf.jpg
+mitt_romney (fr) vs brad_pitt (google) vs mitt_romney (facenet)
+Majority label: mitt_romney
+
+/Users/ericmdai/Downloads/images-val-pub/c6665e524c28bc607c47f53b964c5c27.jpg
+daniel_craig (fr) vs google_unknown (google) vs billy_joel (facenet)
+Majority label: daniel_craig
+
+/Users/ericmdai/Downloads/images-val-pub/c6d23a866eac5caa954b4aed97ffe635.jpg
+michelle_obama (fr) vs michelle_obama (google) vs halle_berry (facenet)
+Majority label: michelle_obama
+
+/Users/ericmdai/Downloads/images-val-pub/c7626da5ea32d9b087e993eea71b1620.jpg
+demi_moore (fr) vs marie_curie (google) vs marie_curie (facenet)
+Majority label: marie_curie
+
+/Users/ericmdai/Downloads/images-val-pub/c76360ee0de3b49cbbcdc8a601f71b3c.jpg
+gerald_ford (fr) vs gerald_ford (google) vs mikhail_gorbachev (facenet)
+Majority label: gerald_ford
+
+/Users/ericmdai/Downloads/images-val-pub/c83105e80d072d72ababaf60ab1d3d74.jpg
+kanye_west (fr) vs louis_armstrong (google) vs louis_armstrong (facenet)
+Majority label: louis_armstrong
+
+/Users/ericmdai/Downloads/images-val-pub/c90b6086b03e074f617e9fd29ed8fdc8.jpg
+aretha_franklin (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: aretha_franklin
+
+/Users/ericmdai/Downloads/images-val-pub/ca38d6f71d2279ea136cc778b4b80a83.jpg
+leonardo_dicaprio (fr) vs google_unknown (google) vs channing_tatum (facenet)
+Majority label: channing_tatum
+
+/Users/ericmdai/Downloads/images-val-pub/ca39122f48c5a8858135ff74bcad482e.jpg
+woodrow_wilson (fr) vs charlie_chaplin (google) vs charlie_chaplin (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/cac85d4a2654933fdcedf3b21b33ce39.jpg
+louis_armstrong (fr) vs louis_armstrong (google) vs hank_williams (facenet)
+Majority label: louis_armstrong
+
+/Users/ericmdai/Downloads/images-val-pub/cc043373aa53dae59e698a858372b642.jpg
+elton_john (fr) vs google_unknown (google) vs garth_brooks (facenet)
+Majority label: garth_brooks
+
+/Users/ericmdai/Downloads/images-val-pub/cec5d67364152392696bbc76796a4fe8.jpg
+cristiano_ronaldo (fr) vs bruce_willis (google) vs hank_williams (facenet)
+Majority label: bruce_willis
+
+/Users/ericmdai/Downloads/images-val-pub/d56707b96520fdbac2c7050fb8da2669.jpg
+bruce_springsteen (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/d6870d78071989a07e259313c1e4290e.jpg
+johnny_cash (fr) vs johnny_cash (google) vs mikhail_gorbachev (facenet)
+Majority label: johnny_cash
+
+/Users/ericmdai/Downloads/images-val-pub/d6a63bb853911b34d28b1a97d30581ab.jpg
+al_franken (fr) vs al_franken (google) vs elton_john (facenet)
+Majority label: al_franken
+
+/Users/ericmdai/Downloads/images-val-pub/dbcd7efd70b1db7444fb4f5d035644cd.jpg
+steven_spielberg (fr) vs google_unknown (google) vs albert_einstein (facenet)
+Majority label: albert_einstein
+
+/Users/ericmdai/Downloads/images-val-pub/dc2a0b786e02a656a8792420d99c791e.jpg
+saoirse_ronan (fr) vs natalie_portman (google) vs saoirse_ronan (facenet)
+Majority label: saoirse_ronan
+
+/Users/ericmdai/Downloads/images-val-pub/de1085a1959edc7966cd674fb8c32f52.jpg
+brad_pitt (fr) vs elton_john (google) vs elton_john (facenet)
+Majority label: elton_john
+
+/Users/ericmdai/Downloads/images-val-pub/e0427e9720aa76e470c7fd86d13ed57e.jpg
+charlie_chaplin (fr) vs charlie_chaplin (google) vs cary_grant (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/e056b708e38362db03d88f7788d7aa9e.jpg
+mikhail_gorbachev (fr) vs mikhail_gorbachev (google) vs charlie_chaplin (facenet)
+Majority label: mikhail_gorbachev
+
+/Users/ericmdai/Downloads/images-val-pub/e07e3d63fbe42ef28ff7fcb5b1900fb9.jpg
+elton_john (fr) vs google_unknown (google) vs lady_gaga (facenet)
+Majority label: elton_john
+
+/Users/ericmdai/Downloads/images-val-pub/e26f93eb67d1729eb8fdb9e53d645b0b.jpg
+bruce_springsteen (fr) vs google_unknown (google) vs hank_williams (facenet)
+Majority label: hank_williams
+
+/Users/ericmdai/Downloads/images-val-pub/e2a15876e0025f801f3806a67c9f680a.jpg
+arnold_schwarzenegger (fr) vs arnold_schwarzenegger (google) vs cristiano_ronaldo (facenet)
+Majority label: arnold_schwarzenegger
+
+/Users/ericmdai/Downloads/images-val-pub/e2a74c5677a882352060714d7c20a846.jpg
+woodrow_wilson (fr) vs google_unknown (google) vs franklin_roosevelt (facenet)
+Majority label: franklin_roosevelt
+
+/Users/ericmdai/Downloads/images-val-pub/e35029d9f1780c72a1ea0b874a074988.jpg
+donald_trump (fr) vs john_mccain (google) vs al_gore (facenet)
+Majority label: al_gore
+
+/Users/ericmdai/Downloads/images-val-pub/e43e9ea92f7e795d35f6ef53b85b3c85.jpg
+woodrow_wilson (fr) vs charlie_chaplin (google) vs charlie_chaplin (facenet)
+Majority label: charlie_chaplin
+
+/Users/ericmdai/Downloads/images-val-pub/ecf94230da1a4de86b6fca143674776f.jpg
+charlie_chaplin (fr) vs billy_joel (google) vs billy_joel (facenet)
+Majority label: billy_joel
+
+/Users/ericmdai/Downloads/images-val-pub/ee27b74bce25ad1785d798005dcc4c0d.jpg
+eric_clapton (fr) vs google_unknown (google) vs hank_williams (facenet)
+Majority label: hank_williams
+
+/Users/ericmdai/Downloads/images-val-pub/f7e317330fd590be7df5bbdc72123283.jpg
+halle_berry (fr) vs google_unknown (google) vs donald_trump (facenet)
+Majority label: halle_berry
+
+/Users/ericmdai/Downloads/images-val-pub/f9c193c46a20bec9e91bf2388359f42e.jpg
+gerald_ford (fr) vs gerald_ford (google) vs john_cena (facenet)
+Majority label: gerald_ford
+
+/Users/ericmdai/Downloads/images-val-pub/fc7a769852f231e3381f977f727d9c16.jpg
+carly_fiorina (fr) vs google_unknown (google) vs charlie_chaplin (facenet)
+Majority label: carly_fiorina
+
+/Users/ericmdai/Downloads/images-val-pub/fe65309ef0aaad8fa5c38b4616dd872c.jpg
+ben_affleck (fr) vs benedict_cumberbatch (google) vs benedict_cumberbatch (facenet)
+Majority label: benedict_cumberbatch
+
+/Users/ericmdai/Downloads/images-val-pub/fea43ceafbcf701fc769880a2f1b46b2.jpg
+amy_poehler (fr) vs amy_poehler (google) vs britney_spears (facenet)
+Majority label: amy_poehler
+

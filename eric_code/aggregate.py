@@ -8,7 +8,7 @@ output_file = 'outputs/aggregate.csv'
 
 
 def aggregate_predictions():
-    # fr_preds = read_csv('outputs/fr_cnn_51knn.csv')
+    fr_preds = read_csv('outputs/fr_cnn_51knn.csv')
     google_preds = read_csv('outputs/google.csv')
     facenet_preds = read_csv('outputs/facenet_model-20180402-114759.csv')
 
@@ -16,18 +16,17 @@ def aggregate_predictions():
     unknowns = []
 
     for l in VAL_IMG_LABELS:
-        preds = [google_preds[l], facenet_preds[l]]
-        if len(set(preds)) == 1:
-            predictions.append((l, preds[0]))
+        preds = [fr_preds[l], google_preds[l], facenet_preds[l]]
+
+        filtered = filter(lambda x: 'unknown' not in x, preds)
+        if len(filtered) == 0:
+            print 'No label found accross all classifiers for {}\n'.format(VAL_DATA_DIR + l)
+            unknowns.append((l, 'Unknown'))
+        elif len(set(filtered)) == 1:
+            predictions.append((l, filtered[0]))
         else:
             print 'Labels different for {}'.format(VAL_DATA_DIR + l)
-            print '{} (google) vs {} (facenet)'.format(*preds)
-
-            filtered = filter(lambda x: 'unknown' not in x, preds)
-            if len(filtered) == 0:
-                print 'No label found accross all classifiers\n'
-                unknowns.append((l, 'Unknown'))
-                continue
+            print '{} (fr) vs {} (google) vs {} (facenet)'.format(*preds)
 
             c = Counter(filtered)
             majority_label = c.most_common()[0][0]
