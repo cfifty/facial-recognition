@@ -4,7 +4,7 @@ import io
 from constants import CLASS_LABELS, VAL_IMG_LABELS, VAL_IMG_PATHS, output
 from google.cloud import vision
 
-output_file = 'outputs/google.csv'
+output_file = 'outputs/google-test.csv'
 
 
 def predict_all():

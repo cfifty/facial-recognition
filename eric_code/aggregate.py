@@ -47,6 +47,15 @@ def read_csv(csv_file):
     return output_dict
 
 
+def diff(f1, f2):
+    preds1 = read_csv(f1)
+    preds2 = read_csv(f2)
+    for l in VAL_IMG_LABELS:
+        if preds1[l] != preds2[l]:
+            print 'Labels different for {}'.format(VAL_DATA_DIR + l)
+            print '{} vs {}\n'.format(preds1[l], preds2[l])
+
+
 def main():
     preds = aggregate_predictions()
     # for i in preds:
@@ -54,5 +63,10 @@ def main():
     output(output_file, preds, header=True)
 
 
+def test():
+    diff('outputs/aggregate.csv', '/Users/ericmdai/Downloads/facenet3.csv')
+
+
 if __name__ == '__main__':
     main()
+    # test()

@@ -69,7 +69,10 @@ def train(train_dir, model_save_path=None, n_neighbors=None, knn_algo='ball_tree
 def predict_all():
     preds = []
     for label, path in zip(VAL_IMG_LABELS, VAL_IMG_PATHS):
-        preds.append((label, predict_knn(path, model_path=trained_model_pathd)))
+        print 'Predicting {}:'.format(path)
+        pred = predict_knn(path, model_path=fr_model_path)
+        print 'Predicted label: {}\n'.format(pred)
+        preds.append((label, pred))
     return preds
 
 
@@ -118,12 +121,12 @@ def predict_knn(X_img_path, knn_clf=None, model_path=None, distance_threshold=0.
 
 def main():
     # Training only needs to be done once
-    print 'Training knn classifier with n={}'.format(n_neighbors)
-    classifier = train(TRAIN_DATA_DIR, model_save_path=fr_model_path, n_neighbors=n_neighbors)
-    print 'Training complete!'
+    # print 'Training knn classifier with n={}'.format(n_neighbors)
+    # classifier = train(TRAIN_DATA_DIR, model_save_path=fr_model_path, n_neighbors=n_neighbors)
+    # print 'Training complete!'
 
-    # preds = predict_all()
-    # output(output_file, preds)
+    preds = predict_all()
+    output(output_file, preds)
 
 
 if __name__ == '__main__':
