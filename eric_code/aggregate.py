@@ -4,19 +4,20 @@ import csv
 from collections import Counter
 from constants import VAL_DATA_DIR, VAL_IMG_LABELS, output
 
-output_file = 'outputs/aggregate.csv'
+output_file = 'outputs/aggregate2.csv'
 
 
 def aggregate_predictions():
     fr_preds = read_csv('outputs/fr_cnn_51knn.csv')
     google_preds = read_csv('outputs/google.csv')
     facenet_preds = read_csv('outputs/facenet_model-20180402-114759.csv')
+    amazon_preds = read_csv('outputs/amazon2.csv')
 
     predictions = []
     unknowns = []
 
     for l in VAL_IMG_LABELS:
-        preds = [fr_preds[l], google_preds[l], facenet_preds[l]]
+        preds = [fr_preds[l], google_preds[l], facenet_preds[l], amazon_preds[l]]
 
         filtered = filter(lambda x: 'unknown' not in x, preds)
         if len(filtered) == 0:
@@ -26,7 +27,7 @@ def aggregate_predictions():
             predictions.append((l, filtered[0]))
         else:
             print 'Labels different for {}'.format(VAL_DATA_DIR + l)
-            print '{} (fr) vs {} (google) vs {} (facenet)'.format(*preds)
+            print '{} (fr) vs {} (google) vs {} (facenet) vs {} (amazon)'.format(*preds)
 
             c = Counter(filtered)
             majority_label = c.most_common()[0][0]
