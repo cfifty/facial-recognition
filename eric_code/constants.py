@@ -2,7 +2,7 @@ import csv
 import os
 
 TRAIN_DATA_DIR = '/Users/ericmdai/Downloads/images-train/'
-VAL_DATA_DIR = '/Users/ericmdai/Downloads/images-val-pub/'
+VAL_DATA_DIR = '/Users/ericmdai/Downloads/images-test-pub/'
 
 CLASS_LABELS = sorted(os.listdir(TRAIN_DATA_DIR))
 VAL_IMG_LABELS = sorted(os.listdir(VAL_DATA_DIR))
